@@ -1,24 +1,21 @@
-# README
+# ZenithSimpleBlog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A straightforward, user-friendly blogging platform designed for those who appreciate simplicity. 
 
-Things you may want to cover:
+This application serves as a sample to explore distributed system observability, offering a practical example of implementing and monitoring basic web functionalities.
 
-* Ruby version
+## environment
 
-* System dependencies
+|     name      | version |
+| :-----------: | :-----: |
+|     Ruby      |  3.2.2  |
+| Ruby on Rails |  6.1.1  |
 
-* Configuration
+## Install
 
-* Database creation
+TBD
 
-* Database initialization
+## Deploy
 
-* How to run the test suite
+TBD
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
